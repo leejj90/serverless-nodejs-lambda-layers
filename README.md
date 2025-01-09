@@ -1,1 +1,0 @@
-# serverless-nodejs-lambda-layers
